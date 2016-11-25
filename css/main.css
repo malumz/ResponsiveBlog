@@ -129,6 +129,9 @@ text-align: center;}
 	font-family: 'Open Sans';
 	font-size: 13px;
  }
+ .col-8 .frame {
+ 	background: #1b1821;
+ }
  .img4 h4 {
  	font-family: 'Courgette';
 	color: #f9b968;
